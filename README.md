@@ -1,4 +1,4 @@
-# password-gen
+# password-generator
 Columbia Module 3 Challenge: JavaScript
 
 ## Description
